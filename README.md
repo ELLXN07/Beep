@@ -4,7 +4,6 @@ Real-time audio effects for YouTube and browser tabs.
 
 **[🌐 Website](https://ellxnbeep.netlify.app/)** • **[📥 Download](https://github.com/ELLXN07/beep/releases/latest)** • **[📖 Documentation](#usage)**
 
-![Beep Preview](https://via.placeholder.com/800x400/0a0a0a/3b82f6?text=Beep+Audio+Effects)
 
 ## Features
 
