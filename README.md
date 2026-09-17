@@ -2,7 +2,6 @@
 
 Real-time audio effects for YouTube and browser tabs.
 
-![Beep Preview](https://via.placeholder.com/800x400/0a0a0a/3b82f6?text=Beep+Audio+Effects)
 
 ## Features
 
@@ -128,4 +127,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-Made with ♪ by the Beep team
+Made with ♪ by Pranav Preman
